@@ -23,7 +23,7 @@
         }
     ],
     "require": {
-        "msgphp/domain": "dev-master"
+        "msgphp/domain": "dev-main"
     },
     "require-dev": {
         "doctrine/orm": "^2.6",
