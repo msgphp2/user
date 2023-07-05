@@ -1,5 +1,5 @@
 {
-    "name": "msgphp/user",
+    "name": "corephp/msgphp-user",
     "type": "library",
     "description": "A domain layer providing basic user management",
     "keywords": [
@@ -23,7 +23,7 @@
         }
     ],
     "require": {
-        "msgphp/domain": "dev-main"
+        "corephp/msgphp-domain": "dev-main"
     },
     "require-dev": {
         "doctrine/orm": "^2.6",
