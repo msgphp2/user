@@ -1,5 +1,5 @@
 {
-    "name": "corephp/msgphp-user",
+    "name": "msgphp2/user",
     "type": "library",
     "description": "A domain layer providing basic user management",
     "keywords": [
@@ -19,11 +19,11 @@
      "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/corePHP/msgphp_domain"
+            "url": "https://github.com/msgphp2/domain"
         }
     ],
     "require": {
-        "corephp/msgphp-domain": "^1.0.6"
+        "msgphp2/domain": "^1.0.6"
     },
     "require-dev": {
         "doctrine/orm": "^2.6",
